@@ -1,4 +1,4 @@
-鸟名,食物,蛋孔,分数,栖息地,巢型,效果种类,翅长
+name,food,egg,point,habitat,nest,effect,winglength
 pied-billed grebe,f/w,4,0,blue,2,brown,41
 long-tailed tit,w+g,4,0,green,5,white,18
 spotted towhee,c/w/g,4,0,green/yellow,3,brown,28
@@ -17,7 +17,7 @@ common yellowthroat,w,4,1,blue,1,brown,18
 killdeer,w/g,3,1,yellow/blue,3,brown,46
 carolina wren,c/w,5,1,green,4,white,20
 griffon vulture,n,1,1,yellow,2,blue,252
-red-bellied woodpecker,w/g,3,1green,4,brown,41
+red-bellied woodpecker,w/g,3,1,green,4,brown,41
 chipping sparrow,w/g,3,1,green/yellow,1,brown,23
 savi's warbler,w,4,1,blue,1,brown,20
 blue-gray gnatcatcher,w,3,1,green,1,brown,15
