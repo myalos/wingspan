@@ -1,0 +1,262 @@
+鸟名,食物,蛋孔,分数,栖息地,巢型,效果种类,翅长
+pied-billed grebe,f/w,4,0,blue,2,brown,41
+long-tailed tit,w+g,4,0,green,5,white,18
+spotted towhee,c/w/g,4,0,green/yellow,3,brown,28
+scaled quail,g,6,0,yellow,3,brown,36
+mourning dove,g,5,0,all,2,brown,46
+black redstart,c+w+g,4,0,yellow,5,blue,24
+lesser whitethroat,c+w,2,0,green/yellow,1,blue,18
+mallard,w/g,4,0,blue,3,brown,89
+ruddy duck,w/g,5,0,blue,2,brown,48
+song sparrow,c/w/g,5,0,all,1,brown,20
+painted whitestart,w,3,1,green,3,brown,22
+goldcrest,w,6,1,green,1,brown,15
+eurasian magpie,r+w,3,1,yellow,2,blue,56
+california condor,n,1,1,all,3,white,277
+common yellowthroat,w,4,1,blue,1,brown,18
+killdeer,w/g,3,1,yellow/blue,3,brown,46
+carolina wren,c/w,5,1,green,4,white,20
+griffon vulture,n,1,1,yellow,2,blue,252
+red-bellied woodpecker,w/g,3,1green,4,brown,41
+chipping sparrow,w/g,3,1,green/yellow,1,brown,23
+savi's warbler,w,4,1,blue,1,brown,20
+blue-gray gnatcatcher,w,3,1,green,1,brown,15
+yellow-rumped warbler,c/w/g,4,1,green,1,brown/tuck,23
+american robin,c/w,4,1,green/yellow,1,brown/tuck,43
+turkey vulture,n,1,1,all,4,red,170
+audouin's gull,r+f,2,1,blue,3,brown/tuck,132
+red-legged partridge,g+g+g,6,1,yellow,3,brown,48
+barn swallow,w,3,1,yellow/blue,5,brown/tuck,38
+house wren,w,5,1,green/yellow,4,white,15
+dunnock,w+g,4,1,green,1,blue,20
+western meadowlark,w+g,4,2,yellow,3,brown,38
+common little bittern,f+w,3,2,blue,2,brown,49
+white-backed woodpecker,c/w,2,2,green,4,brown,39
+pygmy nuthatch,w+g,4,2,green,4,brown/tuck,20
+grasshopper sparrow,w/g,2,2,yellow,3,brown,20
+white-crowned sparrow,w+g,5,2,all,3,brown,25
+purple martin,w,3,2,yellow/blue,4,brown/tuck,46
+ruby-crowned kinglet,c/w/g,3,2,green,1,white,20
+common goldeneye,f+w,4,2,green/blue,4,blue,73
+red-winged blackbird,g,3,2,yellow/blue,1,brown/tuck,33
+northern mockingbird,c+w,4,2,all,1,brown,36
+coal tit,w+g,6,2,green,4,brown,16
+northern flicker,c/w/g,4,2,green/yellow,4,white,51
+bushtit,w+g,5,2,all,5,brown/tuck,15
+white-throated swift,w,2,2,yellow,4,brown/tuck,38
+savannah sparrow,w/g,3,2,yellow,3,white,18
+black vulture,n,1,2,green,4,red,150
+mountain chickadee,w/g,3,2,green,4,brown,23
+white-breasted nuthatch,w/g,3,2,green,4,brown,28
+carolina chickadee,w/g,3,2,green,4,brown,20
+red-breasted nuthatch,w/g,3,2,green,4,brown,23
+eastern kingbird,c/w,2,2,all,1,red,38
+vaux's swift,w,3,2,green,4,brown,31
+short-toed treecreeper,w+g,5,2,green,4,brown,20
+white wagtail,w+w,5,2,yellow/blue,1,blue,28
+yellowhammer,g+g,3,2,green/yellow,3,blue,26
+ruff,r+w,2,2,yellow/blue,3,blue,56
+black-bellied whistling-duck,g+g,5,2,blue,4,brown/tuck,76
+inca dove,g+g,4,2,yellow,2,white,28
+tufted titmouse,c/w/g,3,2,green,4,white,25
+canada goose,g+g,3,3,yellow/blue,3,brown/tuck,132
+brewer's blackbird,r+g,3,3,yellow,1,brown/tuck,41
+double-crested cormorant,r+f,3,3,blue,2,brown/tuck,132
+squacco heron,f+w,2,3,blue,2,brown,86
+great crested grebe,f+f,2,3,blue,5,brown,65
+common nighthawk,w+w,2,3,all,3,brown,56
+lincoln's sparrow,w+g,2,3,all,3,brown,20
+chimney swift,w+w,2,3,all,5,brown,36
+white-throated dipper,f+w,4,3,blue,4,brown,28
+american coot,r+g,5,3,blue,2,brown/tuck,61
+red-eyed vireo,c/w,2,3,green,5,white,25
+red-breasted merganser,f+w,4,3,blue,3,brown,78
+northern harrier,m,2,3,yellow/blue,2,brown/hunt,109
+cooper's hawk,m,2,3,green,2,brown/hunt,79
+red-shouldered hawk,m,2,3,green,2,brown/hunt,102
+barred owl,m,2,3,green,4,brown/hunt,107
+carrion crow,r+w,2,3,yellow/blue,2,blue,92
+brant,r+g,2,3,blue,3,white,114
+eurasian nuthatch,w+g,3,2,green,4,brown,25
+cassin's sparrow,w+g,2,3,yellow,3,brown,20
+grey heron,f+f,2,3,blue,2,white,185
+common chiffchaff,c/w/g,4,3,green/blue,3,brown/tuck,20
+greater flamingo,w+g+g,1,3,blue,3,brown/tuck,152
+loggerhead shrike,w+m,4,3,yellow/blue,1,red,30
+common starling,c/w/g,4,3,yellow/blue,4,blue,38
+brown-headed cowbird,g,0,3,yellow,0,red,30
+hooded crow,r+r+w,2,3,yellow/blue,2,blue,99
+american goldfinch,g+g,3,3,yellow,1,white,23
+black-billed magpie,r+r,3,3,yellow,5,red,64
+sprague's pipit,w+g,3,3,yellow,3,white,25
+blue jay,r+g,2,3,green,1,brown,41
+common moorhen,f+w+g,6,3,blue,5,brown,53
+moltoni's warbler,c+w,2,3,yellow,1,blue,17
+downy woodpecker,c/w/g,2,3,green,4,white,30
+house finch,c+g,6,3,all,1,brown/tuck,25
+black-headed gull,r+w,2,3,blue,3,brown,102
+eastern phoebe,c/w,4,3,all,5,brown,28
+dark-eyed junco,w+g,3,3,green/yellow,3,brown/tuck,23
+yellow-bellied sapsucker,c+w,3,3,green,4,brown,41
+northern cardinal,c+g,5,3,green,1,brown,30
+tree swallow,c+w,4,3,blue,4,brown/tuck,38
+european roller,w+m,2,3,yellow,4,white,70
+eurasian tree sparrow,w+g,4,3,green/yellow,4,red,21
+violet-green swallow,w+w,3,3,all,4,brown/tuck,36
+european bee-eater,w+w,3,2,yellow,4,brown,38
+california quail,w+g+g,6,3,green/yellow,3,brown,36
+baird's sparrow,w+g,2,3,yellow,3,brown,23
+common grackle,r+g,3,3,all,1,brown/tuck,43
+bullfinch,c+g,4,3,green,1,brown,24
+common nightingale,c/w/g,4,3,all,1,brown,23
+pine siskin,g+g,2,3,green,1,brown/tuck,23
+franklin's gull,r+f,2,3,yellow/blue,5,brown,91
+cedar waxwing,c+c,3,3,green/yellow,1,brown/tuck,25
+bell's vireo,w+w,2,4,green/yellow,5,white,18
+red-cockaded woodpecker,c+w,2,4,green,4,white,36
+cassin's finch,c+g,3,4,green,1,white,30
+common cuckoo,w+w,0,4,green/yellow,0,red,57
+mountain bluebird,c+w,5,4,yellow,4,white,36
+common chaffinch,w/g,2,4,green/yellow,1,brown/tuck,27
+eurasian hobby,w/m/s,2,4,all,2,white/hunt,75
+red kite,r+m/s,2,4,all,2,white/hunt,157
+common buzzard,m/s,2,4,all,2,white/hunt,123
+montagu's harrier,m+m/s,2,4,yellow,3,white/hunt,113
+eurasian sparrowhawk,m/s,2,4,green,2,white/hunt,65
+little bustard,w+g,2,4,yellow,3,white,110
+european turtle dove,g+g,1,4,all,2,white,51
+corsican nuthatch,g+g,2,4,green,4,white,21
+snowy owl,m+m,3,4,yellow/blue,3,white,138
+common blackbird,c+c+w,5,4,green,1,white,36
+black woodpecker,c+w+w,2,4,green,4,brown,70
+european robin,c+w+g,4,4,green,1,brown,22
+hawfinch,g+g,2,4,green,1,brown,30
+great tit,c+w+g,6,4,green,4,brown,24
+european honey buzzard,r+w,1,4,green,2,blue,134
+eurasian golden oriole,r+c+w,2,4,green/yellow,5,red,46
+thekla's lark,w+w+g,3,4,yellow,3,brown,34
+king rail,r+f+w,6,4,blue,2,white,51
+mute swan,r+w+g,3,4,blue,3,brown/tuck,220
+eurasian jay,r+w+g,3,4,green,1,brown,56
+little owl,w+m,2,4,green/yellow,4,brown,56
+common kingfisher,f+f+w,5,4,blue,5,brown,26
+black-chinned hummingbird,r,2,4,all,1,brown,8
+canvasback,r+g,4,4,blue,5,brown,82
+american redstart,c+w,2,4,green,1,brown,20
+broad-winged hawk,m,2,4,green,2,brown/hunt,85
+eastern bluebird,c+w,5,4,yellow,4,white,33
+cerulean warbler,w+g,2,4,green,1,white,20
+eurasian green woodpecker,c+w,3,4,green/yellow,4,blue,48
+bewick's wren,w+w+g,3,4,all,4,brown,18
+anna's hummingbird,r,2,4,all,1,brown,13
+eastern screech owl,w/m,2,4,green,4,brown/hunt,51
+mississippi kite,w/m,1,4,green/yellow,2,brown/hunt,79
+ruby-throated hummingbird,r,2,4,all,1,brown,10
+willet,f/w,2,4,blue,3,brown/hunt,66
+black tern,f/w,2,4,blue,5,brown,61
+wood duck,c+g+g,4,4,green/blue,4,brown,76
+pileated woodpecker,c+w,2,4,green,4,brown,74
+red-headed woodpecker,r+w+g,3,4,all,4,brown,43
+yellow-headed blackbird,w+g,3,4,blue,1,brown/tuck,38
+dickcissel,w+g+g,3,4,yellow,3,brown/tuck,25
+forster's tern,f/w,2,4,blue,5,brown,79
+cetti's warbler,w+g,3,4,blue,1,blue,17
+ring-billed gull,r+r,2,4,blue,3,brown/tuck,122
+black-necked stilt,w+w,2,4,blue,3,white,74
+american crow,r,2,4,all,2,brown,99
+ash-throated flycatcher,c+w+w,4,4,yellow,4,white,30
+juniper titmouse,w+g,3,4,green,4,brown,23
+chihuahuan raven,r+r+m,3,4,yellow,2,brown,112
+bobolink,w+g+g,3,4,yellow,3,white,30
+brown pelican,f+f,2,4,blue,2,white,201
+belted kingfisher,r+f,4,4,blue,5,red,53
+blue grosbeak,w+g+g,3,4,all,1,brown,28
+green heron,f/w,3,4,blue,2,brown,66
+lazuli bunting,c+w+g,4,4,yellow,1,brown,23
+snowy egret,f/w,2,4,blue,2,brown/hunt,104
+northern bobwhite,g+g+g,6,5,yellow,3,brown,33
+common raven,r+r+m,2,4,all,2,brown,135
+clark's grebe,f,2,5,blue,5,brown,61
+indigo bunting,c+w+g,3,5,green/yellow,1,brown,20
+eurasian collared-dove,c+g,2,5,yellow,2,blue/tuck,52
+osprey,f,2,5,blue,2,brown,160
+hooded merganser,f+w,4,5,blue,4,brown,61
+wilson's snipe,w,2,5,blue,3,brown,41
+spotted sandpiper,w,2,5,blue,3,brown,38
+acorn woodpecker,g+g+g,4,5,green,4,brown,46
+clark's nutcracker,r+g+g,2,5,green,2,brown,61
+steller's jay,r+g+g,2,5,green,1,brown,48
+northern gannet,f+f,1,5,blue,3,brown/hunt,173
+northern goshawk,m+m/s,2,5,green,2,white/hunt,106
+yellow-billed cuckoo,r+w+w,2,5,green,2,red,46
+horned lark,w+g,4,5,yellow,3,red/tuck,30
+barrow's goldeneye,f+w+g,4,5,blue,4,red,71
+bronzed cowbird,w+g,0,5,yellow,0,red,36
+great crested flycatcher,c+w,3,5,green,4,brown,33
+chestnut-collared longspur,w+g+g,4,5,yellow,3,white,25
+gray catbird,c+c+w,3,5,all,1,brown,28
+snow bunting,w+g,2,5,yellow/blue,4,red/tuck,35
+barn owl,m+m,4,5,all,4,brown/hunt,107
+burrowing owl,w+m,4,5,yellow,5,brown/tuck,53
+common merganser,r+f,4,5,blue,4,brown/tuck,86
+great blue heron,f+w,2,5,blue,2,white,183
+sandhill crane,r+g+g,1,5,yellow/blue,3,brown/tuck,196
+american white pelican,f+f,1,5,blue,3,brown/tuck,274
+peregrine falcon,m+m,2,5,yellow/blue,2,brown/hunt,104
+eurasian nutcracker,g,2,5,green,1,brown,55
+american oystercatcher,w+w,2,5,blue,3,white,81
+american kestrel,w+m,3,5,yellow,4,brown/hunt,56
+yellow-breasted chat,c+c+w,3,5,all,1,brown,25
+swainson's hawk,w+m,2,5,yellow,2,brown/hunt,130
+say's phoebe,w+w+w,3,5,yellow,1,white,33
+greater prairie-chicken,w+g+g,4,5,yellow,3,white,71
+red-tailed hawk,m+m,2,5,all,2,brown/tuck,124
+painted bunting,w+g+g,4,5,yellow,1,white,23
+common swift,w,2,5,yellow,4,blue/tuck,46
+spotted owl,m+m,1,5,green,4,white,102
+black-throated diver,f+f,1,5,blue,3,brown,120
+red-backed shrike,r+w+m,2,5,yellow,1,brown,33
+whooping crane,r+r+r,1,6,blue,3,white,221
+common loon,r+f,1,6,blue,3,brown,117
+black-tailed godwit,w+w+g,2,6,blue,3,white,76
+wood stork,r+f+m,2,6,blue,2,white,155
+eleonora's falcon,w+m,2,6,blue,3,brown/hunt,95
+ferruginous hawk,m+m,2,6,yellow,2,brown/hunt,142
+parrot crossbill,g+g+g,2,6,green,1,brown,30
+european goldfinch,c+g+g,4,6,green/yellow,1,red/tuck,23
+rose-breasted grosbeak,c+w+g,3,6,green,1,brown,33
+western tanager,c+w+w,2,6,green,1,brown,30
+roseate spoonbill,f+w+g,2,6,blue,2,white,127
+fish crow,r+f,2,6,all,2,brown,91
+red crossbill,g+g,2,6,green,1,brown,28
+black skimmer,f+f,2,6,blue,3,brown/hunt,112
+house sparrow,c+g,5,6,yellow,4,blue,22
+american avocet,w+w+g,2,6,blue,3,red,79
+anhinga,f+f,2,6,blue,2,brown/hunt,114
+wilson's storm-petrel,f+f+w,1,6,blue,5,brown,38
+northern shoveler,w+g+g,4,7,blue,3,brown,76
+great egret,f+f+m,3,7,blue,2,white,130
+purple gallinule,r+c+g,4,7,blue,2,brown,56
+hooded warbler,w+w,3,7,green,1,white,18
+hermit thrush,c+c+w,2,7,green,5,brown,30
+eastern imperial eagle,m+m+m/s,2,7,yellow,2,white/hunt,200
+greater roadrunner,r+w+m,2,7,yellow,2,brown/hunt,56
+red knot,w+w+w,2,7,blue,3,white,50
+greylag goose,g+g+g,2,7,blue,3,blue,164
+american bittern,f+w+m,2,7,blue,2,brown,107
+bluethroat,c+w+g,5,7,yellow/blue,3,brown,22
+blue-winged warbler,w+w,2,8,green/yellow,1,white,20
+prothonotary warbler,w+w+g,4,8,green/blue,4,white,23
+wild turkey,c+g+g,5,8,green/yellow,3,white,135
+scissor-tailed flycatcher,c+w+w,2,8,yellow,1,brown,38
+white stork,r+f+w,2,8,yellow/blue,2,brown,160
+golden eagle,m+m+m,1,8,yellow/blue,2,brown/hunt,201
+great horned owl,m+m+m,2,8,green,2,brown/hunt,112
+white-faced ibis,f+w+w,2,8,blue,2,brown/hunt,91
+atlantic puffin,f+f+f,1,8,blue,5,white,53
+bonelli's eagle,m+m+m/s,1,8,all,2,white/hunt,160
+baltimore oriole,c+c+w,2,9,green,5,brown,30
+american woodcock,w+w+g,2,9,green/yellow,3,white,46
+trumpeter swan,r+g+g,2,9,blue,3,white,203
+bald eagle,f+f+m,1,9,blue,2,white,203
+black-crowned night-heron,f+w+m,2,9,blue,2,brown,112
